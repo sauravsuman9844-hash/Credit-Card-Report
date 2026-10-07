@@ -64,7 +64,4 @@ interactive dashboards to support business decision-making.
 
 ---
 
-## 📎 Author
-**Your Name**  
-Data Analyst
 
